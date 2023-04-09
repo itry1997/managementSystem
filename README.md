@@ -9,5 +9,5 @@
 根据登录用户的角色不同（不同角色拥有不同权限）进行动态路由
 
 ## 项目截图
-
+![image](https://github.com/itry1997/managementSystem/blob/master/HR%E8%B7%AF%E7%94%B1%E7%95%8C%E9%9D%A2.png)
 
